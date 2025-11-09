@@ -1,0 +1,31 @@
+{
+  "name": "PhD Countdown — 6 Chapters",
+  "short_name": "PhD Countdown",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f1226",
+  "theme_color": "#7c3aed",
+  "description": "Animated countdown + progress tracker to finish 6 PhD chapters by 5 Jan 2026. Daily motivation included!",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "education"
+  ]
+}
